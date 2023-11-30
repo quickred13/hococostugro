@@ -2,7 +2,7 @@
 """
 Created on Thu Oct  8 23:05:10 2020
 
-@author: cbony, rsnyder
+@author: cbony, msnyder
 """
 
 from random import randint
